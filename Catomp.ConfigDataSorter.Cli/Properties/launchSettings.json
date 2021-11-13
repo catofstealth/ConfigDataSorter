@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CWC.D365.JsonObjectOrganiser": {
+      "commandName": "Project",
+      "commandLineArgs": "-i \"C:/Users/Stealthcat/Downloads/PortalData.json\" -s \"C:/Users/Stealthcat/Downloads/SortingPrefs.json\""
+    }
+  }
+}

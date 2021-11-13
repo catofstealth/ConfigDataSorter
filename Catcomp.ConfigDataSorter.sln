@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catomp.ConfigDataSorter.Lib", "Catomp.ConfigDataSorter.Lib\Catomp.ConfigDataSorter.Lib.csproj", "{63AC1B43-5D21-4F89-A80F-22888008F7A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Catcomp.ConfigDataSorter.Cli", "Catomp.ConfigDataSorter.Cli\Catcomp.ConfigDataSorter.Cli.csproj", "{81667702-BEDB-4723-83FA-6F3D6EB5E587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63AC1B43-5D21-4F89-A80F-22888008F7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63AC1B43-5D21-4F89-A80F-22888008F7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63AC1B43-5D21-4F89-A80F-22888008F7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63AC1B43-5D21-4F89-A80F-22888008F7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81667702-BEDB-4723-83FA-6F3D6EB5E587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81667702-BEDB-4723-83FA-6F3D6EB5E587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81667702-BEDB-4723-83FA-6F3D6EB5E587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81667702-BEDB-4723-83FA-6F3D6EB5E587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03482EA0-AAD9-4BAB-9D3B-CBE4BBBEE973}
+	EndGlobalSection
+EndGlobal

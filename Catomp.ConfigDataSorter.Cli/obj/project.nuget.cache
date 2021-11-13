@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "25bMoRIyIQWtRV3b8cJcnRLBqPngwkK/X+rulxghYhGXybMm5BhHUcAAHNebV0DsrY7TTQpMT6Rb/bBac53nIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stealthcat\\source\\repos\\Catcomp.ConfigDataSorter\\Catomp.ConfigDataSorter.Cli\\Catcomp.ConfigDataSorter.Cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stealthcat\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512",
+    "C:\\Users\\Stealthcat\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

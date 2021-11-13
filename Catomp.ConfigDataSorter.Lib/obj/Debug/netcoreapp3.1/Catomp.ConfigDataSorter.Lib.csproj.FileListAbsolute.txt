@@ -1,0 +1,9 @@
+C:\Users\Stealthcat\source\repos\CWC.D365.JsonObjectOrganiser\Catomp.ConfigDataSorter.Lib\bin\Debug\netcoreapp3.1\Catomp.ConfigDataSorter.Lib.deps.json
+C:\Users\Stealthcat\source\repos\CWC.D365.JsonObjectOrganiser\Catomp.ConfigDataSorter.Lib\bin\Debug\netcoreapp3.1\Catomp.ConfigDataSorter.Lib.dll
+C:\Users\Stealthcat\source\repos\CWC.D365.JsonObjectOrganiser\Catomp.ConfigDataSorter.Lib\bin\Debug\netcoreapp3.1\Catomp.ConfigDataSorter.Lib.pdb
+C:\Users\Stealthcat\source\repos\CWC.D365.JsonObjectOrganiser\Catomp.ConfigDataSorter.Lib\obj\Debug\netcoreapp3.1\Catomp.ConfigDataSorter.Lib.csprojAssemblyReference.cache
+C:\Users\Stealthcat\source\repos\CWC.D365.JsonObjectOrganiser\Catomp.ConfigDataSorter.Lib\obj\Debug\netcoreapp3.1\Catomp.ConfigDataSorter.Lib.AssemblyInfoInputs.cache
+C:\Users\Stealthcat\source\repos\CWC.D365.JsonObjectOrganiser\Catomp.ConfigDataSorter.Lib\obj\Debug\netcoreapp3.1\Catomp.ConfigDataSorter.Lib.AssemblyInfo.cs
+C:\Users\Stealthcat\source\repos\CWC.D365.JsonObjectOrganiser\Catomp.ConfigDataSorter.Lib\obj\Debug\netcoreapp3.1\Catomp.ConfigDataSorter.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Stealthcat\source\repos\CWC.D365.JsonObjectOrganiser\Catomp.ConfigDataSorter.Lib\obj\Debug\netcoreapp3.1\Catomp.ConfigDataSorter.Lib.dll
+C:\Users\Stealthcat\source\repos\CWC.D365.JsonObjectOrganiser\Catomp.ConfigDataSorter.Lib\obj\Debug\netcoreapp3.1\Catomp.ConfigDataSorter.Lib.pdb
