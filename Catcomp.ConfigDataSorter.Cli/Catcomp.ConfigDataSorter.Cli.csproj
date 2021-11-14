@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Catomp.ConfigDataSorter.Lib\Catomp.ConfigDataSorter.Lib.csproj" />
+    <ProjectReference Include="..\Catcomp.ConfigDataSorter.Lib\Catcomp.ConfigDataSorter.Lib.csproj" />
   </ItemGroup>
 
 </Project>

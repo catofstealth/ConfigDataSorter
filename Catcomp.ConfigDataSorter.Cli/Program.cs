@@ -12,7 +12,7 @@ using Newtonsoft.Json;
 using Catomp.ConfigDataSorter.Lib;
 using Catomp.ConfigDataSorter.Lib.Models;
 
-namespace CWC.D365.JsonObjectOrganiser
+namespace Catomp.ConfigDataSorter.Cli
 {
     
 

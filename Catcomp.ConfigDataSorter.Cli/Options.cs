@@ -3,7 +3,7 @@ using System.Reflection;
 using CommandLine;
 using CommandLine.Text; 
 
-namespace CWC.D365.JsonObjectOrganiser
+namespace Catomp.ConfigDataSorter
 {
     class Options
     {
